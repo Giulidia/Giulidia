@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Giulidia in all my social media
-- 🌱 I’m currently learning HTML/CSS
+You can call me Ju or Jules
+- 🌱 I’m currently learning HTML/CSS/JS
 
 <!---
 Giulidia/Giulidia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
