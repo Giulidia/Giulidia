@@ -2,12 +2,11 @@
 <span align="center">
 
 
-## <img src="https://c.tenor.com/tcUHuyfhymAAAAAi/emoji-emojis.gif" width="30px"> Whatzup migos! <img src="https://c.tenor.com/tcUHuyfhymAAAAAi/emoji-emojis.gif"</h2>
+## <img src="https://c.tenor.com/tcUHuyfhymAAAAAi/emoji-emojis.gif" width="30px"> Whatzup migos! <img src="https://c.tenor.com/tcUHuyfhymAAAAAi/emoji-emojis.gif" width="30px"></h2>
 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/100308775/169810599-5fea08b8-53c0-4152-9298-4b75d18a0241.png" width="700px" />
-width="3opx"
+<img src="https://user-images.githubusercontent.com/100308775/169810599-5fea08b8-53c0-4152-9298-4b75d18a0241.png" width="400px" />
 </div>
 
 
