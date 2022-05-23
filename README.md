@@ -2,7 +2,7 @@
 <span align="center">
 
 
-## <img src="https://c.tenor.com/tcUHuyfhymAAAAAi/emoji-emojis.gif" width="30px"> Whatzup migos! <img src="https://c.tenor.com/tcUHuyfhymAAAAAi/emoji-emojis.gif" width="30px"></h2>
+## <img src="https://c.tenor.com/tcUHuyfhymAAAAAi/emoji-emojis.gif" width="30px"> Whatzup migos! <img src="https://c.tenor.com/tcUHuyfhymAAAAAi/emoji-emojis.gif"</h2>
 
 
 <div align="center">
