@@ -23,12 +23,12 @@
 <p align="center">
     
 <p align="center">
-  Reach me: ⤵️
+  Talk to me: ⤵️
 </p>
 
 <div dir="auto">
   <a href="https://www.linkedin.com/in/giulidia/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a>
   <a href="https://giulidia.github.io/Jules/" alt="Github">
-  <img src="https://user-images.githubusercontent.com/100308775/172061422-a10b36ff-0769-47d3-b460-bcf031c91d02.png" width="100px" /></a>
+  <img src="https://user-images.githubusercontent.com/100308775/172061422-a10b36ff-0769-47d3-b460-bcf031c91d02.png" width="110px" /></a>
 </div>  
