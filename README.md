@@ -23,7 +23,7 @@
 <p align="center">
     
 <p align="center">
-  Talk to me: ⤵️
+  Reach me: ⤵️
 </p>
 
 <div dir="auto">
