@@ -26,12 +26,9 @@
   Talk to me: ⤵️
 </p>
 
-<p align="center"> 
+<div dir="auto">
   <a href="https://www.linkedin.com/in/giulidia/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a>
-</p>  
-
-<p align="center"> 
   <a href="https://giulidia.github.io/Jules/" alt="Github">
   <img src="https://user-images.githubusercontent.com/100308775/172060903-f103e2a0-25b8-45c6-8530-72d4eae7f560.png" width="100px" /></a>
-</p>  
+</div>  
