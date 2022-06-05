@@ -16,9 +16,9 @@
 <p align="center">
   💼 <strong>Skills:</strong> Figma, Photoshop, Illustrator, InDesign, Premiere & FinalCut 
   <p align="center">
-🥇<strong>Expertise:</strong> Digital Marketing, Content Designer, Content Producer, Project Management, People Management, Social Media Planning, SEO</p>
+🥇<strong>Expertise:</strong> UX&UI, Digital Marketing, Content Designer, Content Producer, Project Management, People Management, Social Media Planning, SEO</p>
 <p align="center">
-  📒 <strong>Learning:</strong> HMTL, CSS & JavaScript to become a Front-End and exercising UX/UI</p>
+  📒 <strong>Improving my skills in:</strong> HMTL, CSS & JavaScript - Front-End</p>
 
 <p align="center">
     
