@@ -1,7 +1,7 @@
 
 <span align="center">
 
-💖Whatzup migos!💖
+💖Hey, welcome!💖
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/100308775/172048559-de0c2155-875c-46b2-bce6-4f315c1363f2.png" width="200px" />
