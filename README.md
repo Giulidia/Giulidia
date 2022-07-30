@@ -9,7 +9,7 @@ Hey, welcome!
 </p>
 
 <p align="center">
-  📒 <strong>Always studying and developing:</strong> HMTL, CSS, JavaScript, C#, Bootstrap, Flutter & React</p>
+  🖥️ <strong>Always studying and developing:</strong> HMTL, CSS, JavaScript, C#, Bootstrap, Flutter & React</p>
 <p align="center">
   🎨 <strong>Skills:</strong> Figma, Photoshop, Illustrator, InDesign, Premiere & FinalCut 
   <p align="center">
