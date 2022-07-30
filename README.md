@@ -4,12 +4,12 @@
 Hey, welcome!
 
 <p align="center">
-  🪄<strong>My name is Giulídia but you can call me Ju or Jules!</strong>  <br> I'm a gemini girl graduated in Advertising & Marketing, master in Communication Science, working with the digital world since 2010, also as Social Media, Art Direction, exercising the Experience of UX since 2017 and in 2022 expressing my knowledge with HTML/ CSS/ JavaScript. 
+  🪄<strong>My name is Giulídia but you can call me Ju or Jules!</strong>  <br> Graduated in Advertising & Marketing, master in Communication Science, working with the digital world since 2010, also as Social Media, Art Direction, exercising the Experience of UX since 2017 and in 2022 expressing my knowledge with HTML/ CSS/ JavaScript. 
 
 </p>
 
 <p align="center">
-  📒 <strong>Always studying and developing:</strong> HMTL, CSS, JavaScript, C#, Bootstrap, React</p>
+  📒 <strong>Always studying and developing:</strong> HMTL, CSS, JavaScript, C#, Bootstrap, Flutte & React</p>
 <p align="center">
   💼 <strong>Skills:</strong> Figma, Photoshop, Illustrator, InDesign, Premiere & FinalCut 
   <p align="center">
