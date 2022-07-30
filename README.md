@@ -18,7 +18,7 @@ Hey, welcome!
 <p align="center">
     
 <p align="center">
-  Talk to me: ⤵️
+  Talk to me on LinkedIn and see some pages on my repository 😉 : ⤵️
 </p>
 
 <div dir="auto">
