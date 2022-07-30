@@ -11,7 +11,7 @@ Hey, welcome!
 <p align="center">
   📒 <strong>Always studying and developing:</strong> HMTL, CSS, JavaScript, C#, Bootstrap, Flutter & React</p>
 <p align="center">
-  💼 <strong>Skills:</strong> Figma, Photoshop, Illustrator, InDesign, Premiere & FinalCut 
+  🎨 <strong>Skills:</strong> Figma, Photoshop, Illustrator, InDesign, Premiere & FinalCut 
   <p align="center">
 🥇<strong>Expertise:</strong> UX&UI, Digital Marketing, Content Designer, Content Producer, Project Management, People Management, Social Media Planning, SEO</p>
 
