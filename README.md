@@ -2,6 +2,7 @@
 <span align="center">
 
 Hey, welcome!
+Thank you for reach me :D
 
 <p align="center">
   🪄<strong>My name is Giulídia but you can call me Ju or Jules!</strong>  <br> Graduated in Advertising & Marketing, master in Communication Science, working with the digital world since 2010, also as Social Media, Art Direction, exercising the Experience of UX since 2017 and in 2022 expressing my knowledge with HTML/ CSS/ JavaScript. 
